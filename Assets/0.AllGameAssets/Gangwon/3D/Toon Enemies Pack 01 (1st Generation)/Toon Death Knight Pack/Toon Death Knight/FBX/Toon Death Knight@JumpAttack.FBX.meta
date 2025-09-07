@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 18ae3acece29a3b4cb3dcfbe5c03bd06
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Spine' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Toon Death Knight@JumpAttack(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.50000006, y: -0.50000006, z: -0.49999994, w: 0.49999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigCape1Gizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0.07253562, y: 0.48296732, z: -0.23019221}
+      rotation: {x: -0.40760398, y: -0.5188086, z: 0.43029147, w: 0.61607295}
+      scale: {x: 0.99999994, y: 0.9999995, z: 1.0000004}
+    - name: RigCape2Gizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0.08701502, y: 0.3319329, z: -0.2759043}
+      rotation: {x: -0.41860723, y: -0.5222184, z: 0.43620446, w: 0.6014828}
+      scale: {x: 1.0000004, y: 0.9999996, z: 1.0000006}
+    - name: RigCape3Gizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0.0978048, y: 0.19172485, z: -0.31423974}
+      rotation: {x: -0.38480192, y: -0.5428689, z: 0.42387566, w: 0.6144512}
+      scale: {x: 1.0000006, y: 0.99999934, z: 1.0000005}
+    - name: RigHeadGizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: 0.015149174, y: 0.835269, z: 0.04068827}
+      rotation: {x: 0.50478977, y: -0.49520683, z: -0.5033655, w: 0.4965689}
+      scale: {x: 0.99999964, y: 1.0000005, z: 1.0000006}
+    - name: RigHeadTopGizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: 0.015195886, y: 0.81426984, z: -0.21824145}
+      rotation: {x: 0.70712364, y: -0.004219973, z: -0.7068954, w: -0.01603904}
+      scale: {x: 0.9999998, y: 1.0000007, z: 1.0000008}
+    - name: RigLArm1Gizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0.26435396, y: 0.40960178, z: 0.075817354}
+      rotation: {x: 0.5999026, y: 0.23781604, z: 0.31332883, w: 0.6966961}
+      scale: {x: 0.9999983, y: 0.9999985, z: 1.0000002}
+    - name: RigLArm2Gizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0.33589506, y: 0.33480904, z: 0.07120058}
+      rotation: {x: 0.35044315, y: 0.27234077, z: 0.14265256, w: 0.8846866}
+      scale: {x: 0.9999982, y: 0.99999815, z: 1.0000017}
+    - name: RigLArmPalmGizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0.42841074, y: 0.28423837, z: 0.114767075}
+      rotation: {x: -0.17306332, y: 0.15169318, z: 0.5897808, w: 0.7740781}
+      scale: {x: 0.999998, y: 0.999995, z: 0.9999981}
+    - name: RigLLegPlatform
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0.15075792, y: -0.000000010758291, z: 0.10151896}
+      rotation: {x: 0.46578866, y: -0.46578866, z: -0.532016, w: 0.532016}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+    - name: RigPelvis
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0.000000001933042, y: 0.17629093, z: -0.011207395}
+      rotation: {x: 0.4411666, y: -0.434425, z: -0.56116444, w: 0.54930997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigLLeg1
+      parentName: RigPelvis
+      position: {x: 0.000000019073486, y: 0.0000000023841857, z: 0.11512425}
+      rotation: {x: -0.37550116, y: 0.90442246, z: -0.035049077, w: 0.19947541}
+      scale: {x: 0.9999995, y: 1.0000004, z: 0.9999997}
+    - name: RigLLeg2
+      parentName: RigLLeg1
+      position: {x: -0.09406935, y: 0.000000009536743, z: 0}
+      rotation: {x: 0.016959615, y: 0.012358587, z: 0.5089344, w: 0.8605495}
+      scale: {x: 1.0000015, y: 0.99999857, z: 0.9999995}
+    - name: RigLLegAnkle
+      parentName: RigLLeg2
+      position: {x: -0.06613945, y: 0, z: -0.000000019073486}
+      rotation: {x: -0.048140835, y: 0.18798152, z: -0.3763543, w: 0.9059265}
+      scale: {x: 1.0000021, y: 0.9999987, z: 0.9999997}
+    - name: RigLLegFoot1
+      parentName: RigLLegAnkle
+      position: {x: -0.06479648, y: -0.000000009536743, z: 0}
+      rotation: {x: -0.000000013059502, y: -0.00000001824363, z: -0.51003546, w: 0.8601534}
+      scale: {x: 1.0000026, y: 0.9999973, z: 0.99999994}
+    - name: RigRLeg1
+      parentName: RigPelvis
+      position: {x: 0.000000038146972, y: 0.000000007152557, z: -0.11512423}
+      rotation: {x: -0.10488733, y: 0.9931033, z: 0.00365589, w: -0.0522605}
+      scale: {x: 0.9999996, y: 1.0000002, z: 0.9999997}
+    - name: RigRLeg2
+      parentName: RigRLeg1
+      position: {x: -0.09406935, y: 0, z: 0}
+      rotation: {x: -0.015466623, y: -0.015040684, z: 0.61938125, w: 0.784794}
+      scale: {x: 0.9999976, y: 1.0000029, z: 1.0000006}
+    - name: RigRLegAnkle
+      parentName: RigRLeg2
+      position: {x: -0.06613945, y: 0.0000000047683715, z: 0}
+      rotation: {x: 0.12723023, y: -0.07436893, z: -0.7222766, w: 0.6757205}
+      scale: {x: 0.99999565, y: 1.0000048, z: 1.0000002}
+    - name: RigRLegFoot1
+      parentName: RigRLegAnkle
+      position: {x: -0.06479673, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0.000000020763684, y: 0.00000003965598, z: -0.5100341, w: 0.8601543}
+      scale: {x: 0.9999964, y: 1.0000036, z: 1}
+    - name: RigSpine1
+      parentName: RigPelvis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0064687976, y: 0.00045800782, z: 0.0021973432, w: 0.9999766}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.99999994}
+    - name: RigSpine2
+      parentName: RigSpine1
+      position: {x: -0.111364685, y: 0, z: 1.4901161e-10}
+      rotation: {x: -0.0284305, y: 0.002010103, z: 0.014071806, w: 0.99949473}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: RigRibcage
+      parentName: RigSpine2
+      position: {x: -0.13518415, y: 0, z: -2.9802322e-10}
+      rotation: {x: -0.006472385, y: 0.00041759753, z: 0.003122839, w: 0.99997413}
+      scale: {x: 0.99999976, y: 1, z: 1.0000002}
+    - name: RigCape1
+      parentName: RigRibcage
+      position: {x: -0.064692535, y: -0.22927497, z: 0.0000000166893}
+      rotation: {x: -0.015685866, y: -0.09713104, z: 0.9818593, w: 0.16208592}
+      scale: {x: 0.9999998, y: 0.99999934, z: 0.99999994}
+    - name: RigCape2
+      parentName: RigCape1
+      position: {x: -0.15846336, y: 0, z: 0}
+      rotation: {x: -0.011125403, y: -0.0073457384, z: 0.014239564, w: 0.99980974}
+      scale: {x: 1.0000005, y: 1, z: 1.0000004}
+    - name: RigCape3
+      parentName: RigCape2
+      position: {x: -0.14575426, y: 0, z: 0.0000000047683715}
+      rotation: {x: 0.010315959, y: -0.01523368, z: -0.03937062, w: 0.9990553}
+      scale: {x: 1.0000002, y: 0.99999976, z: 0.99999994}
+    - name: RigLArm1
+      parentName: RigRibcage
+      position: {x: 0.012401581, y: -0.00011880934, z: 0.27814114}
+      rotation: {x: 0.057073064, y: 0.89749324, z: 0.22783346, w: 0.37328333}
+      scale: {x: 0.9999979, y: 0.9999982, z: 1.0000002}
+    - name: RigLArm2
+      parentName: RigLArm1
+      position: {x: -0.10360229, y: -0.000000009536743, z: 0}
+      rotation: {x: -0.23516606, y: -0.04488011, z: -0.2578492, w: 0.9360537}
+      scale: {x: 0.9999999, y: 0.9999994, z: 1.0000019}
+    - name: RigLArmPalm
+      parentName: RigLArm2
+      position: {x: -0.11408167, y: 0.000000019073486, z: -0.000000038146972}
+      rotation: {x: -0.56335944, y: 0.15475962, z: 0.31105456, w: 0.7496137}
+      scale: {x: 0.99999857, y: 0.9999949, z: 0.99999964}
+    - name: Dummy-LHandWeapon
+      parentName: RigLArmPalm
+      position: {x: -0.08320749, y: -0.059822004, z: 0.0072029303}
+      rotation: {x: 0.0074102203, y: 0.010329269, z: -0.71122605, w: 0.7028485}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: RigNeck
+      parentName: RigRibcage
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.07930475, y: -0.0054494306, z: -0.07494508, w: 0.99401426}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1}
+    - name: RigHead
+      parentName: RigNeck
+      position: {x: -0.4160042, y: 0.000000009536743, z: -5.9604643e-10}
+      rotation: {x: 0.079165146, y: 0.015547845, z: 0.055870812, w: 0.99517316}
+      scale: {x: 0.9999998, y: 1, z: 1.0000002}
+    - name: RigHeadTop
+      parentName: RigHead
+      position: {x: 0.02523735, y: -0.2585509, z: 0.000033460856}
+      rotation: {x: 0.01129714, y: -0.010929595, z: -0.70713806, w: 0.70690084}
+      scale: {x: 0.9999993, y: 1.0000011, z: 1.0000002}
+    - name: RigRArm1
+      parentName: RigRibcage
+      position: {x: 0.012401619, y: -0.00011882543, z: -0.27814177}
+      rotation: {x: 0.2755068, y: 0.8852179, z: 0.022605397, w: -0.37413147}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.99999976}
+    - name: RigRArm2
+      parentName: RigRArm1
+      position: {x: -0.10360231, y: 0.000000019073486, z: 0}
+      rotation: {x: 0.09778201, y: -0.19348349, z: -0.36814898, w: 0.90414006}
+      scale: {x: 1, y: 1.0000002, z: 1.0000006}
+    - name: RigRArmPalm
+      parentName: RigRArm2
+      position: {x: -0.114081666, y: 0.0000000047683715, z: 0}
+      rotation: {x: 0.8230189, y: -0.012861157, z: 0.03375616, w: 0.5668642}
+      scale: {x: 0.99999887, y: 1.0000001, z: 0.99999976}
+    - name: Dummy-RHandWeapon
+      parentName: RigRArmPalm
+      position: {x: -0.06806884, y: -0.086726606, z: -0.0070244884}
+      rotation: {x: 0.7112263, y: 0.7028483, z: -0.0074100504, w: 0.010326938}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: Sword
+      parentName: Dummy-RHandWeapon
+      position: {x: 0.005106735, y: -0.003435831, z: 0.01583394}
+      rotation: {x: -0.7071079, y: -0.0000010589375, z: -0.0000012064551, w: 0.70710564}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.99999964}
+    - name: RigPelvisGizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0.000000001933042, y: 0.17629093, z: -0.011207395}
+      rotation: {x: 0.4411666, y: -0.434425, z: -0.56116444, w: 0.54930997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigRArm1Gizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: 0.26400012, y: 0.4112252, z: -0.0982236}
+      rotation: {x: 0.4978383, y: 0.50353485, z: 0.7041599, w: 0.05261608}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: RigRArm2Gizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: 0.31567457, y: 0.3516064, z: -0.1653711}
+      rotation: {x: 0.40612784, y: 0.6972185, z: 0.4717285, w: 0.35555416}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000007}
+    - name: RigRArmPalmGizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: 0.36327893, y: 0.24873096, z: -0.15252167}
+      rotation: {x: 0.5524496, y: 0.76518756, z: -0.29963914, w: -0.13965665}
+      scale: {x: 0.99999905, y: 1.0000008, z: 1.0000002}
+    - name: RigRibcageGizmo
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0.00025103244, y: 0.42281497, z: -0.011311464}
+      rotation: {x: 0.41120213, y: -0.41771483, z: -0.5666037, w: 0.57912636}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000005}
+    - name: RigRLegPlatform
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: 0.12879194, y: -0.000000003918651, z: -0.054954175}
+      rotation: {x: 0.35675666, y: -0.35675666, z: -0.61051184, w: 0.61051184}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Toon Death Knight
+      parentName: Toon Death Knight@JumpAttack(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
