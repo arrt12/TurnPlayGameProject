@@ -1,7 +1,8 @@
 # ProvincialSkillCompetition
 
 ## 📺 프로젝트 소개 영상
-[![ProvincialSkillCompetition]([https://img.youtube.com/vi/qtoLyM6I8Og](https://youtu.be/tFQglDNabv4)/0.jpg)](https://youtu.be/qtoLyM6I8Og)
+[![TurnPlayGameProject](https://img.youtube.com/vi/tFQglDNabv4/0.jpg)](https://youtu.be/tFQglDNabv4)
+
 
 > 위 이미지를 클릭하면 YouTube로 이동합니다.
 
